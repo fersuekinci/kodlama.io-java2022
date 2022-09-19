@@ -1,1 +1,1 @@
-# kodlama.io-java-2022-
+# kodlama.io-java2022
